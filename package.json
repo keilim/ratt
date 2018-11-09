@@ -1,0 +1,25 @@
+{
+  "name": "ratt",
+  "version": "0.1.0",
+  "description": "Rest Api Task Testing",
+  "main": "src/index.js",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "rest",
+    "api"
+  ],
+  "author": "Keith Wei Luen Lim",
+  "license": "MIT"
+}
